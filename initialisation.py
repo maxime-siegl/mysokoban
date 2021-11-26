@@ -1,0 +1,8 @@
+FREE = 0
+WALL = 1
+BOX = 2
+TARGET = 3
+PLAYER = 4
+GOAL = 5
+
+SIZE = 34
